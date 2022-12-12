@@ -68,7 +68,7 @@ const Login = () => {
                       tempor incididunt ut labore et dolore magna aliqua.
                     </p>
                     <Link to="/register">
-                      <CButton color="primary" className="mt-3" active tabIndex={-1}>
+                      <CButton color="warning" className="mt-3" active tabIndex={-1}>
                         Register Now!
                       </CButton>
                     </Link>
